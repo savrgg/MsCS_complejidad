@@ -130,3 +130,6 @@ dmypy.json
 .Rproj.user
 .Rhistory
 *.zip
+*.mp4
+*.DS_Store
+
